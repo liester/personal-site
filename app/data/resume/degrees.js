@@ -1,14 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
-  }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Morningside College',
+    degree: 'Bachleor of Arts in Computer Science',
+    link: 'https://www.morningside.edu/',
+    year: 2011,
+  },
+  {
+    school: 'Morningside College',
+    degree: 'Minor in Dance',
+    link: 'https://www.morningside.edu/',
+    year: 2011,
   },
 ];
 
