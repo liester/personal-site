@@ -27,6 +27,7 @@
             "specialLink": [ "to", "hrefLeft", "hrefRight" ],
             "aspects": [ "noHref", "invalidHref", "preferButton" ]
           }],
+    "quotes":"off"
   },
   "plugins": [
     "mocha",

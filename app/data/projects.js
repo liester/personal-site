@@ -1,42 +1,38 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Game of Primes',
+    subtitle: '2016 Hybrid Android App',
+    link: 'https://play.google.com/store/apps/details?id=com.mindcanary',
+    image: '/images/projects/GameOfPrimes.png',
+    date: '2016-5-12',
+    desc: 'I built this to understand the process of deploying an application to Google Play. '
+      + 'This application allows you to test your math skills for prime numbers.  High scores and explanation of incorrect answers. ',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Omaha Pothole Reporter',
+    subtitle: 'Built with online app builder.',
+    link: 'https://play.google.com/store/apps/details?id=com.gmail.leviliester.roadreporter',
+    image: '/images/projects/OmahaPothole.png',
+    date: '2019-03-19',
+    desc: `This application requires two clicks. One to generate an email and one to send the email. you don't have to put in the location, it will get it directly from your phone. It takes too much time to use the Omaha Mobile App to create a pothole service request at this time. Hopefully they can update the app to make it quicker.`,
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
-  }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Challenge Accepted',
+    subtitle: 'Challenge your friends to learn new things.',
+    link: '',
+    image: '/images/projects/placeholder.png',
+    date: '2019-11-28',
+    desc: 'I wanted to create a way to learn new things and be able to challenge my friends to also learn new things.'
+    + 'This is one of the larger full featured application I\'ve created.  It has persistence, authentication and publicly hosted on Heroku.',
+  },
+  {
+    title: 'Dutch Auction',
+    subtitle: 'Start high, go low.',
+    link: '',
+    image: '/images/projects/placeholder.png',
+    date: '2019-6-14',
+    desc: 'In general, auctions tend to start at a low price and slowly increase the price as bidders compete for an item.'
+    + 'This is a twist on that experience I discovered while working in the auction industry.  In this experience the price of an item starts high.'
+    + 'The price is slowly decreased until someone buys it.  Frist bid wins.',
   },
 ];
 
